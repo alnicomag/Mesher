@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="yes"?>
+<meshdoc>
+<general>
+<elemnum>119</elemnum>
+<nodenum>55</nodenum>
+<bandwidth>153</bandwidth>
+</general>
+<main>
+<element id="0" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="16"><coordinate sou="mm"><x>-0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="17"><coordinate sou="mm"><x>1.22461e-016</x><y>-0.38</y><z>-1</z></coordinate></node>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="1" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="43"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="2" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="19"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="3" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="16"><coordinate sou="mm"><x>-0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="4" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="39"><coordinate sou="mm"><x>1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="38"><coordinate sou="mm"><x>0.933109</x><y>-5.08</y><z>-1.28431</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+</element>
+<element id="5" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="18"><coordinate sou="mm"><x>0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="19"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="6" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="43"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="7" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="40"><coordinate sou="mm"><x>1.5098</x><y>-5.08</y><z>-0.490564</z></coordinate></node>
+<node id="39"><coordinate sou="mm"><x>1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="8" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="9" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="18"><coordinate sou="mm"><x>0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="10" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="18"><coordinate sou="mm"><x>0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="11" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="17"><coordinate sou="mm"><x>1.22461e-016</x><y>-0.38</y><z>-1</z></coordinate></node>
+<node id="18"><coordinate sou="mm"><x>0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+</element>
+<element id="12" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="18"><coordinate sou="mm"><x>0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+</element>
+<element id="13" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="9"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="14" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="19"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+</element>
+<element id="15" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="17"><coordinate sou="mm"><x>1.22461e-016</x><y>-0.38</y><z>-1</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+</element>
+<element id="16" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="19"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+</element>
+<element id="17" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="17"><coordinate sou="mm"><x>1.22461e-016</x><y>-0.38</y><z>-1</z></coordinate></node>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+</element>
+<element id="18" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="19" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="20" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="21" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="33"><coordinate sou="mm"><x>-1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="22" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="19"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="6"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>0</z></coordinate></node>
+</element>
+<element id="23" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="15"><coordinate sou="mm"><x>-0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="24" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="9"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="6"><coordinate sou="mm"><x>0.951057</x><y>-0.38</y><z>0</z></coordinate></node>
+</element>
+<element id="25" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="17"><coordinate sou="mm"><x>1.22461e-016</x><y>-0.38</y><z>-1</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+</element>
+<element id="26" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="35"><coordinate sou="mm"><x>-0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+</element>
+<element id="27" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="28" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="29" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="37"><coordinate sou="mm"><x>0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="38"><coordinate sou="mm"><x>0.933109</x><y>-5.08</y><z>-1.28431</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+</element>
+<element id="30" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="31" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="35"><coordinate sou="mm"><x>-0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+</element>
+<element id="32" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="9"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="33" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="34" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="46"><coordinate sou="mm"><x>-13.716</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="1"><coordinate sou="mm"><x>-13.716</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="35" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="9"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="36" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="15"><coordinate sou="mm"><x>-0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="37" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="49"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="46"><coordinate sou="mm"><x>-13.716</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="38" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="41"><coordinate sou="mm"><x>1.5875</x><y>-5.08</y><z>9.72031e-017</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="39" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="35"><coordinate sou="mm"><x>-0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="34"><coordinate sou="mm"><x>-0.933109</x><y>-5.08</y><z>-1.28431</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+</element>
+<element id="40" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="41" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="42" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="43" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="44" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="9"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="45" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="46" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="47" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="39"><coordinate sou="mm"><x>1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="48" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="30"><coordinate sou="mm"><x>1.5875</x><y>-0.38</y><z>9.72031e-017</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="49" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="50" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="38"><coordinate sou="mm"><x>0.933109</x><y>-5.08</y><z>-1.28431</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+</element>
+<element id="51" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="39"><coordinate sou="mm"><x>1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+</element>
+<element id="52" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+</element>
+<element id="53" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="40"><coordinate sou="mm"><x>1.5098</x><y>-5.08</y><z>-0.490564</z></coordinate></node>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="41"><coordinate sou="mm"><x>1.5875</x><y>-5.08</y><z>9.72031e-017</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="54" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="29"><coordinate sou="mm"><x>1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="40"><coordinate sou="mm"><x>1.5098</x><y>-5.08</y><z>-0.490564</z></coordinate></node>
+<node id="3"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>0</z></coordinate></node>
+</element>
+<element id="55" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+</element>
+<element id="56" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="1"><coordinate sou="mm"><x>-13.716</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="57" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="58" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="59" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+</element>
+<element id="60" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="42"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="43"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="61" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="62" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="63" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="64" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="47"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="65" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="46"><coordinate sou="mm"><x>-13.716</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="47"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="66" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="47"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="46"><coordinate sou="mm"><x>-13.716</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="67" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="42"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="68" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="42"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="69" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="32"><coordinate sou="mm"><x>-1.5098</x><y>-5.08</y><z>-0.490564</z></coordinate></node>
+<node id="33"><coordinate sou="mm"><x>-1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+</element>
+<element id="70" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="32"><coordinate sou="mm"><x>-1.5098</x><y>-5.08</y><z>-0.490564</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="71" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="15"><coordinate sou="mm"><x>-0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="16"><coordinate sou="mm"><x>-0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="72" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="31"><coordinate sou="mm"><x>-1.5875</x><y>-5.08</y><z>-2.91609e-016</z></coordinate></node>
+<node id="32"><coordinate sou="mm"><x>-1.5098</x><y>-5.08</y><z>-0.490564</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="73" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="74" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="75" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="21"><coordinate sou="mm"><x>-1.5098</x><y>-0.38</y><z>-0.490564</z></coordinate></node>
+<node id="2"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>0</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="76" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="7"><coordinate sou="mm"><x>-0.951057</x><y>-0.38</y><z>0</z></coordinate></node>
+<node id="8"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>0</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="77" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="15"><coordinate sou="mm"><x>-0.951057</x><y>-0.38</y><z>-0.309017</z></coordinate></node>
+<node id="7"><coordinate sou="mm"><x>-0.951057</x><y>-0.38</y><z>0</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="20"><coordinate sou="mm"><x>-1.5875</x><y>-0.38</y><z>-2.91609e-016</z></coordinate></node>
+</element>
+<element id="78" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="16"><coordinate sou="mm"><x>-0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="79" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="16"><coordinate sou="mm"><x>-0.587785</x><y>-0.38</y><z>-0.809017</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="80" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="0"><coordinate sou="mm"><x>-13.716</x><y>-5.08</y><z>0</z></coordinate></node>
+<node id="33"><coordinate sou="mm"><x>-1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="81" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="34"><coordinate sou="mm"><x>-0.933109</x><y>-5.08</y><z>-1.28431</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="82" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="33"><coordinate sou="mm"><x>-1.28431</x><y>-5.08</y><z>-0.933109</z></coordinate></node>
+<node id="34"><coordinate sou="mm"><x>-0.933109</x><y>-5.08</y><z>-1.28431</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+</element>
+<element id="83" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="43"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="84" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="53"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-13.716</z></coordinate></node>
+<node id="50"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="52"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-13.716</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="85" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="49"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="53"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-13.716</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="86" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="87" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="88" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="89" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="12"><coordinate sou="mm"><x>1.22461e-016</x><y>4.62</y><z>-1</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="90" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="42"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="4"><coordinate sou="mm"><x>11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="91" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="92" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="14"><coordinate sou="mm"><x>0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="93" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="94" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="37"><coordinate sou="mm"><x>0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="95" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="37"><coordinate sou="mm"><x>0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="96" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="26"><coordinate sou="mm"><x>0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="97" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="52"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-13.716</z></coordinate></node>
+<node id="50"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="98" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="53"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-13.716</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="50"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="99" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="100" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="42"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="101" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="102" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="42"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>-5.08</z></coordinate></node>
+<node id="5"><coordinate sou="mm"><x>-11.43</x><y>7.366</y><z>0</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="103" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="13"><coordinate sou="mm"><x>0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="104" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="28"><coordinate sou="mm"><x>1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="105" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="27"><coordinate sou="mm"><x>0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="106" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="45"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="52"><coordinate sou="mm"><x>11.43</x><y>5.08</y><z>-13.716</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="107" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="37"><coordinate sou="mm"><x>0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="108" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="37"><coordinate sou="mm"><x>0.490564</x><y>-5.08</y><z>-1.5098</z></coordinate></node>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="109" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="51"><coordinate sou="mm"><x>11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="50"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="110" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="50"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-13.716</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="111" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="36"><coordinate sou="mm"><x>1.94406e-016</x><y>-5.08</y><z>-1.5875</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="25"><coordinate sou="mm"><x>1.94406e-016</x><y>-0.38</y><z>-1.5875</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="112" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="24"><coordinate sou="mm"><x>-0.490564</x><y>-0.38</y><z>-1.5098</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="113" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="49"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-11.43</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="114" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="48"><coordinate sou="mm"><x>-11.43</x><y>-5.08</y><z>-11.43</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="115" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="116" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="10"><coordinate sou="mm"><x>-0.951057</x><y>4.62</y><z>-0.309017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="117" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="44"><coordinate sou="mm"><x>-11.43</x><y>5.08</y><z>-5.08</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+<element id="118" code="Tetra04">
+<e sou="MPa">205000</e>
+<nu>0.3</nu>
+<rho sou="kg/m3">1000</rho>
+<node id="23"><coordinate sou="mm"><x>-0.933109</x><y>-0.38</y><z>-1.28431</z></coordinate></node>
+<node id="22"><coordinate sou="mm"><x>-1.28431</x><y>-0.38</y><z>-0.933109</z></coordinate></node>
+<node id="11"><coordinate sou="mm"><x>-0.587785</x><y>4.62</y><z>-0.809017</z></coordinate></node>
+<node id="54"><coordinate sou="mm"><x>0</x><y>5.08</y><z>-5.08</z></coordinate></node>
+</element>
+</main>
+<restrict>
+</restrict>
+<load>
+<pointload>
+<node id="0"><x>0</x><y>0</y><z>0</z></node>
+<node id="1"><x>0</x><y>0</y><z>0</z></node>
+<node id="2"><x>0</x><y>0</y><z>0</z></node>
+<node id="3"><x>0</x><y>0</y><z>0</z></node>
+<node id="4"><x>0</x><y>0</y><z>0</z></node>
+<node id="5"><x>0</x><y>0</y><z>0</z></node>
+<node id="6"><x>0</x><y>0</y><z>0</z></node>
+<node id="7"><x>0</x><y>0</y><z>0</z></node>
+<node id="8"><x>0</x><y>0</y><z>0</z></node>
+<node id="9"><x>0</x><y>0</y><z>0</z></node>
+<node id="10"><x>0</x><y>0</y><z>0</z></node>
+<node id="11"><x>0</x><y>0</y><z>0</z></node>
+<node id="12"><x>0</x><y>0</y><z>0</z></node>
+<node id="13"><x>0</x><y>0</y><z>0</z></node>
+<node id="14"><x>0</x><y>0</y><z>0</z></node>
+<node id="15"><x>0</x><y>0</y><z>0</z></node>
+<node id="16"><x>0</x><y>0</y><z>0</z></node>
+<node id="17"><x>0</x><y>0</y><z>0</z></node>
+<node id="18"><x>0</x><y>0</y><z>0</z></node>
+<node id="19"><x>0</x><y>0</y><z>0</z></node>
+<node id="20"><x>0</x><y>0</y><z>0</z></node>
+<node id="21"><x>0</x><y>0</y><z>0</z></node>
+<node id="22"><x>0</x><y>0</y><z>0</z></node>
+<node id="23"><x>0</x><y>0</y><z>0</z></node>
+<node id="24"><x>0</x><y>0</y><z>0</z></node>
+<node id="25"><x>0</x><y>0</y><z>0</z></node>
+<node id="26"><x>0</x><y>0</y><z>0</z></node>
+<node id="27"><x>0</x><y>0</y><z>0</z></node>
+<node id="28"><x>0</x><y>0</y><z>0</z></node>
+<node id="29"><x>0</x><y>0</y><z>0</z></node>
+<node id="30"><x>0</x><y>0</y><z>0</z></node>
+<node id="31"><x>0</x><y>0</y><z>0</z></node>
+<node id="32"><x>0</x><y>0</y><z>0</z></node>
+<node id="33"><x>0</x><y>0</y><z>0</z></node>
+<node id="34"><x>0</x><y>0</y><z>0</z></node>
+<node id="35"><x>0</x><y>0</y><z>0</z></node>
+<node id="36"><x>0</x><y>0</y><z>0</z></node>
+<node id="37"><x>0</x><y>0</y><z>0</z></node>
+<node id="38"><x>0</x><y>0</y><z>0</z></node>
+<node id="39"><x>0</x><y>0</y><z>0</z></node>
+<node id="40"><x>0</x><y>0</y><z>0</z></node>
+<node id="41"><x>0</x><y>0</y><z>0</z></node>
+<node id="42"><x>0</x><y>0</y><z>0</z></node>
+<node id="43"><x>0</x><y>0</y><z>0</z></node>
+<node id="44"><x>0</x><y>0</y><z>0</z></node>
+<node id="45"><x>0</x><y>0</y><z>0</z></node>
+<node id="46"><x>0</x><y>0</y><z>0</z></node>
+<node id="47"><x>0</x><y>0</y><z>0</z></node>
+<node id="48"><x>0</x><y>0</y><z>0</z></node>
+<node id="49"><x>0</x><y>0</y><z>0</z></node>
+<node id="50"><x>0</x><y>0</y><z>0</z></node>
+<node id="51"><x>0</x><y>0</y><z>0</z></node>
+<node id="52"><x>0</x><y>0</y><z>0</z></node>
+<node id="53"><x>0</x><y>0</y><z>0</z></node>
+<node id="54"><x>0</x><y>0</y><z>0</z></node>
+</pointload>
+<faceload>
+</faceload>
+</load>
+</meshdoc>

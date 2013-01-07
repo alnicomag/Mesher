@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<femelement>
+	<Element elementcode="Tetra04">
+		<outline>
+			<family>Serendipity</family>
+			<type>solid</type>
+			<dimension>3</dimension>
+		</outline>
+		<frame>
+			<node>4</node>
+			<edge>6</edge>
+			<surface>4</surface>
+		</frame>
+		<matrix>
+			<k>12</k>
+		</matrix>
+	</Element>
+	<Element elementcode="Tetra10">
+		<outline>
+			<family>Serendipity</family>
+			<type>solid</type>
+			<dimension>3</dimension>
+		</outline>
+		<frame>
+			<node>10</node>
+			<edge>6</edge>
+			<surface>4</surface>
+		</frame>
+		<matrix>
+			<k>30</k>
+		</matrix>
+	</Element>
+	<Element elementcode="Hexa08">
+		<outline>
+			<family>Serendipity</family>
+			<type>solid</type>
+			<dimension>3</dimension>
+		</outline>
+		<frame>
+			<node>8</node>
+			<edge>12</edge>
+			<surface>6</surface>
+		</frame>
+		<matrix>
+			<k>24</k>
+		</matrix>
+	</Element>
+	<Element elementcode="Hexa20">
+		<outline>
+			<family>Serendipity</family>
+			<type>solid</type>
+			<dimension>3</dimension>
+		</outline>
+		<frame>
+			<node>20</node>
+			<edge>12</edge>
+			<surface>6</surface>
+		</frame>
+		<matrix>
+			<k>60</k>
+		</matrix>
+	</Element>
+	<Element elementcode="Hexa32">
+		<outline>
+			<family>Serendipity</family>
+			<type>solid</type>
+			<dimension>3</dimension>
+		</outline>
+		<frame>
+			<node>32</node>
+			<edge>12</edge>
+			<surface>6</surface>
+		</frame>
+		<matrix>
+			<k>96</k>
+		</matrix>
+	</Element>
+	<Element elementcode="Hexa44">
+		<outline>
+			<family>Serendipity</family>
+			<type>solid</type>
+			<dimension>3</dimension>
+		</outline>
+		<frame>
+			<node>44</node>
+			<edge>12</edge>
+			<surface>6</surface>
+		</frame>
+		<matrix>
+			<k>132</k>
+		</matrix>
+	</Element>
+</femelement>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="Geometry.Point">
+    <Position X="1.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAABAAAAAAAA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.Point2D">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYiA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.Point3D">
+    <Position X="2.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYiE=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.Circle" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.Rectangle" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAIAAAAQAEBAAAAIAAAACACAAAAAAAA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.Vector">
+    <Position X="5.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAABAAAAAAAA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.Vector3D">
+    <Position X="5.5" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAYAUAAABAAAAAAAAAAAAgAkAAYiE=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.LineSegment2D" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAAACEAAAARAAAEAAAAAgAAAAAAAAIA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometry.FigurePath" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACABAAYAAABCAAAAFUAAAIAAAAAAAIAACAAAAA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Geometry.LineSegmentCrossingStatement" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAAAAAAAQAAAAAAAAAAAAAABAAAAIggCAEAAA=</HashCode>
+      <FileName>geometry.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>

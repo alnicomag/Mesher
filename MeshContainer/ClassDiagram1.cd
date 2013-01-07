@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MeshContainer.Edge" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAAgQIQAgEAAAABAAAAAEIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Edge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MeshContainer.Edge2D" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="5.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAAgQIQAgEAAAABAAAAAEIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Edge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MeshContainer.Edge3D" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAAgQIQAgAAAAAAAAAAAEIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Edge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MeshContainer.ElementParameter">
+    <Position X="5" Y="12" Width="7.75" />
+    <TypeIdentifier>
+      <HashCode>CIIACAAgAAAAAAAAAAAAAAQAAAAAAAAAACAAIAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.ElementList">
+    <Position X="5" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Element">
+    <Position X="5" Y="8.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AEAggAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAABAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Element2D">
+    <Position X="0.5" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AEAgoAAAAAAAABAEAAAgAAAgAAAAgCAAAIBAAQBAAAE=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.DelaunayElement2D">
+    <Position X="6.5" Y="0.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACQAAABAAgACAAkCAAQAAAIAACAABAAAAAiA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Element3D">
+    <Position X="0.5" Y="6" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AEggoAQACBAAAAAAggCgAkAgAAAAgKAACIRAAABEAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Mesh3D">
+    <Position X="13.5" Y="11.25" Width="8.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgRAEQABQAAAAAAQCAAABAAABAAAAZQAEQAGAABA=</HashCode>
+      <FileName>Mesh3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Node">
+    <Position X="27.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAgAAEiACgIgBAAAABQIAAAAAAAAAAYiE=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Node2D">
+    <Position X="27.25" Y="9.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgACAAgAAAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Node3D">
+    <Position X="27.25" Y="12.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgACAAgAAAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.Surface3D">
+    <Position X="13" Y="6.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAgCAAAAAAAAAAAACAAAAAAAAAAAQAAgA=</HashCode>
+      <FileName>Surface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4Mesh">
+    <Position X="23" Y="17.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAABAAAQABQAAAAAAAAAAAAAAhAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4ElementPart">
+    <Position X="22.25" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4Element">
+    <Position X="22" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgAAAAAAAACABAAAAAAAAAAAAAAEgAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4InElemNode" Collapsed="true">
+    <Position X="24" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgCAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4Coordinate" Collapsed="true">
+    <Position X="24" Y="5.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQACAAAgAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4NodePart">
+    <Position X="23.75" Y="6.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4Node">
+    <Position X="23" Y="14" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4EdgePart">
+    <Position X="23.75" Y="9" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4Edge">
+    <Position X="23.5" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4SurfacePart" Collapsed="true">
+    <Position X="24" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshContainer.XmlSerializerContainer4Surface">
+    <Position X="22.25" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MeshContainer.Material">
+    <Position X="0.75" Y="15.75" Width="11.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAEAYAAICAAAAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="MeshContainer.ElementCode">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAAAAAAUAAAABABAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>
